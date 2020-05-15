@@ -1,4 +1,4 @@
-# gis_data_resources
+# GIS DATA RESOURCES
 List of Various GIS Data Resources
 ## Free Resources
 - [USGS | Earth Explorer](https://earthexplorer.usgs.gov) - Various maps, aerial imagery, satellite imagery, mostly free, registration is required.
